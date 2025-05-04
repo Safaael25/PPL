@@ -5,7 +5,7 @@
 
 
 
-///////v 2 checccckkkkkk /////////////////////////////
+
 
 import { join, map, zipWith } from "ramda";
 import { Sexp, Token } from 's-expression';
